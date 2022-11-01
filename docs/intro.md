@@ -19,7 +19,7 @@ For the first time in history, Web3 allows anyone, anywhere in the world, to int
 
 ### Features
 
-Noox is now in closed beta. During the closed beta, users will be able to 1) explore, 2) collect, 3) and share their web3 achievements based on their historic interaction with various decentralized applications on the Ethereum network.
+Users are able to 1) explore, 2) collect, 3) and share their web3 achievements based on their historic interaction with various decentralized applications on the Ethereum network.
 <br class="in" />
 
 #### Explore
